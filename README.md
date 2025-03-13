@@ -5,7 +5,7 @@
 - <b>Comp 290 databases projects</b>
   - [View Project on GitHub](  https://github.com/JosiahScott643/MySQL-proj1)
 - <b>Comp 250 computer programming 2</b>  
-  - [View Project on GitHub]()
+  - [View Project on GitHub](https://github.com/JosiahScott643/Area-of-Sphere-Project.git)
 - <b>Survey Data Analysis (Excel & Python)</b>  
   - [View Project on GitHub](https://github.com/josiahscott/survey-data-analysis)
 

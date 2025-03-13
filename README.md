@@ -4,8 +4,8 @@
 
 - <b>Comp 290 databases projects</b>
   - [View Project on GitHub](  https://github.com/JosiahScott643/MySQL-proj1)
-- <b>Database Management Project (COMP 290)</b>  
-  - [View Project on GitHub](https://github.com/josiahscott/sql-database-design)
+- <b>Comp 250 computer programming 2</b>  
+  - [View Project on GitHub]()
 - <b>Survey Data Analysis (Excel & Python)</b>  
   - [View Project on GitHub](https://github.com/josiahscott/survey-data-analysis)
 

@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Introductory Statistics - Data Analysis Project</b>
+- <b>Comp 290 databases projects</b>
   - [View Project on GitHub](  https://github.com/JosiahScott643/MySQL-proj1)
-  - [View Project on GitHub](https://github.com/josiahscott/data-analysis-project)
 - <b>Database Management Project (COMP 290)</b>  
   - [View Project on GitHub](https://github.com/josiahscott/sql-database-design)
 - <b>Survey Data Analysis (Excel & Python)</b>  

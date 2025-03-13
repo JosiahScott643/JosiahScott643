@@ -8,6 +8,7 @@
   - [View Project on GitHub](https://github.com/JosiahScott643/Area-of-Sphere-Project.git)
   - [View Project on GitHub](https://github.com/JosiahScott643/-Prime-Number-calculator-project.git)
   - [View Project on GitHub](https://github.com/JosiahScott643/sort-my-object-project.git)
+  - [View Project on GitHub](https://github.com/JosiahScott643/Binary-calc-Project.git)
     
 - <b>Survey Data Analysis (Excel & Python)</b>  
   - [View Project on GitHub](https://github.com/josiahscott/survey-data-analysis)

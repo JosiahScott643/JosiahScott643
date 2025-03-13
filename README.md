@@ -15,9 +15,16 @@
 
 <h2>📚 Relevant Coursework:</h2>
 
-- <b>Introductory Statistics:</b> Data analysis using statistical methods, hypothesis testing, regression analysis, and Python.
-- <b>Databases (COMP 290):</b> Designed relational databases, wrote SQL queries, and created Entity-Relationship Diagrams.
-- <b>Accounting Information Systems:</b> Financial analysis, business data management, pivot tables, and Tableau dashboards.
+<b>Business Statistics (BUSN 212):</b> Data analysis using statistical methods, probability distributions, hypothesis testing, and regression analysis using Excel.  
+<b>Management Information Systems (BUSN 321):</b> Database management, SQL queries, and the role of information systems in business decision-making.  
+<b>Data-Driven Decision Making (BUSN 365):</b> Predictive analytics, data visualization, business intelligence tools, and ethical considerations in data interpretation.  
+<b>Financial & Managerial Accounting (ACT 240):</b> Financial data interpretation, budgeting, cost-benefit analysis, and performance evaluation.  
+<b>Financial Accounting (ACCT 226):</b> Balance sheets, income statements, cash flow analysis, and financial reconciliation techniques.  
+<b>Introduction to Programming (COMP 250):</b> Python and Java programming, data structures, algorithms, debugging, and problem-solving.  
+<b>Data Structures & Algorithms (COMP 255):</b> Advanced data structures (arrays, linked lists, trees, hash tables), sorting and searching algorithms, and efficiency optimization.  
+<b>Database Management Systems (COMP 290):</b> SQL querying, relational database design, normalization, indexing, and performance optimization.  
+<b>Data Science & Analytics (COMP 295):</b> Data cleaning, preprocessing, exploratory data analysis, visualization using Python (Pandas, NumPy, Matplotlib), and machine learning fundamentals.  
+
 
 <h2>🤳 Connect with me:</h2>
 

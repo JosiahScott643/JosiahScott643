@@ -1,17 +1,17 @@
 <h1>Hi, I'm Josiah Scott! <br/><a href="https://github.com/josiahscott">Aspiring Data Analyst</a>, <a href="https://www.linkedin.com/in/josiah-scott-280241257">Information Systems Graduate</a></h1>
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>👨‍💻 Projects completed:</h2>
 
-- <b>Comp 290 databases projects</b>
-  - [View Project on GitHub](  https://github.com/JosiahScott643/MySQL-proj1)
-- <b>Comp 250 computer programming 2</b>  
-  - [View Project on GitHub](https://github.com/JosiahScott643/Area-of-Sphere-Project.git)
-  - [View Project on GitHub](https://github.com/JosiahScott643/-Prime-Number-calculator-project.git)
-  - [View Project on GitHub](https://github.com/JosiahScott643/sort-my-object-project.git)
-  - [View Project on GitHub](https://github.com/JosiahScott643/Binary-calc-Project.git)
+- <b>Computer programming/databases projects</b>
+  - [View Project on GitHub(SQL)](  https://github.com/JosiahScott643/MySQL-proj1) 
+  - [View Project on GitHub(python)](https://github.com/JosiahScott643/Area-of-Sphere-Project.git)
+  - [View Project on GitHub(python)](https://github.com/JosiahScott643/-Prime-Number-calculator-project.git)
+  - [View Project on GitHub(java)](https://github.com/JosiahScott643/sort-my-object-project.git)
+  - [View Project on GitHub(python)](https://github.com/JosiahScott643/Binary-calc-Project.git)
     
-- <b>Survey Data Analysis (Excel & Python)</b>  
-  - [View Project on GitHub](https://github.com/josiahscott/survey-data-analysis)
+- <b>Busniess/Accounting projects</b>  
+  - [View Project on GitHub(excel)](https://github.com/JosiahScott643/Excel-2023-backlog-project-1.git)
+  - [View Project on GitHub(excel)](https://github.com/JosiahScott643/Financial-statement-project.git)
 
 <h2>📚 Relevant Coursework:</h2>
 

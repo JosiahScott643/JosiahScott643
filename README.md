@@ -3,7 +3,8 @@
 <h2>👨‍💻 Projects completed:</h2>
 
 - <b>Computer programming/databases projects</b>
-  - [View Project on GitHub(SQL)](  https://github.com/JosiahScott643/MySQL-proj1) 
+  - [View Project on GitHub(SQL)](https://github.com/JosiahScott643/DATA-cleaning-project) 
+  - [View Project on GitHub(SQL)](https://github.com/JosiahScott643/MySQL-proj1) 
   - [View Project on GitHub(python)](https://github.com/JosiahScott643/Area-of-Sphere-Project.git)
   - [View Project on GitHub(python)](https://github.com/JosiahScott643/-Prime-Number-calculator-project.git)
   - [View Project on GitHub(java)](https://github.com/JosiahScott643/sort-my-object-project.git)

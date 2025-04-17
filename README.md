@@ -14,6 +14,7 @@
 - <b>Busniess/Accounting projects</b>  
   - [View Project on GitHub(excel)](https://github.com/JosiahScott643/Excel-2023-backlog-project-1.git)
   - [View Project on GitHub(excel)](https://github.com/JosiahScott643/Financial-statement-project.git)
+  - [View Project on GitHub(PowerBI)](https://github.com/JosiahScott643/Power-BI-Project)
 
 <h2>📚 Relevant Coursework:</h2>
 
